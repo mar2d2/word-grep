@@ -28,5 +28,5 @@ grep-lite.exe --word-occurrences scooby -i quote.txt
 
 ### Find all lines that contain 'scooby'
 ```
-grep-lite.exe --pattern Scooby ../../quote.txt
+grep-lite.exe --pattern Scooby quote.txt
 ```
